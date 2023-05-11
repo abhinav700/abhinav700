@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav Agarwal</h1>
 <h3 align="center">Aspiring developer exploring the world of software development, and open source</h3>
-
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=p8hBHT9A&id=99F8637866C250B625C0D104D1584D4F127E8346&thid=OIP.p8hBHT9AeJBmi6jCE0ttugHaHa&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fu2pmTWUi0MXjyrMaVj%2fgiphy.gif&exph=480&expw=480&q=animated+coding+gif&simid=607989596631931793&FORM=IRPRST&ck=163538DE30D2EAF981D040FB5B213400&selectedIndex=13" alt="">
 - 🌱 I’m currently learning **Artificial Intelligence and machine learning**
 
 - 📝 I regularly write articles on [https://abhinav700.hashnode.dev/](https://abhinav700.hashnode.dev/)
