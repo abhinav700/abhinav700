@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://abhinav700.hashnode.dev/](https://abhinav700.hashnode.dev/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D4S-FIFIfyXAyDg258oXegWAqyL0BWKo/view?usp=sharing](https://drive.google.com/file/d/1D4S-FIFIfyXAyDg258oXegWAqyL0BWKo/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1D4S-FIFIfyXAyDg258oXegWAqyL0BWKo/view?usp=sharing](https://drive.google.com/file/d/1D4S-FIFIfyXAyDg258oXegWAqyL0BWKo/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
