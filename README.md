@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Agarwal</h1>
 <h3 align="center">Aspiring developer exploring the world of software development, and open source</h3>
 
-- 🔭 I’m currently working on [Mattermost](https://github.com/mattermost)
+- 🔭 I’m currently working on [Notedly](https://github.com/abhinav700/notedly)
 
 - 📝 I regularly write articles on [https://abhinav700.hashnode.dev/](https://abhinav700.hashnode.dev/)
 
